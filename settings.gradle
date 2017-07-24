@@ -1,0 +1,6 @@
+rootProject.name = 'tq'
+
+include 'inf-sdk'
+include 'sbm-sdk'
+include 'click-funnel-lambda'
+include 'simply-book-lambda'
